@@ -6,6 +6,7 @@ Finally Done and Deployed the Project On Netlify.
 
 Live Demo - https://linkedin-clone18.netlify.app/
 
+Linkedin Post - https://www.linkedin.com/posts/om-jaju-4b17b0243_reactjs-linkedinclone-cleverprogrammer-activity-7057412848871735297-dBEo?utm_source=share&utm_medium=member_desktop
 
 
 
