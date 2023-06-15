@@ -1,8 +1,15 @@
-# Linkedin-clone
+Linkedin-clone
 
-Built using React JS, Redux, Firebase & Styled-Components within a week. My first project after learning React JS referencing a tutorial on YouTube by 'Clever Programmer'. 
+  Using ReactJS and Firebase 	
+-	The project is a web application clone of LinkedIn, developed using ReactJS,redux and Styled 
+ components.
 
-Finally Done and Deployed the Project On Netlify.
+-	Firebase is used for secure user authentication, and Google Authentication is included as an option.
+  
+-	It allows users to post images and YouTube video links, similar to the original LinkedIn website.
+  
+-	It is a fully Responsive website.
+
 
 Live Demo - https://linkedin-clone18.netlify.app/
 
